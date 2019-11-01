@@ -1,0 +1,53 @@
+body
+{
+	font-family:"Times New Roman",Times,serif; 
+}
+
+.logo_img
+{
+	margin-left: 181px;
+	
+}
+.logo_img img
+{
+	height:120px;
+	width: 300px;
+}
+.search_1 .a1
+{
+	display: inline-block;
+}
+.dwn
+{
+	height: 100px	;
+
+	background-color:#999999	;
+
+}
+.dwn_1
+{
+	text-align: center;
+	padding: 10px;
+}
+
+.dwn_1 .d1
+{
+	display: inline-block;
+}
+
+.dwn_btn
+{   
+	margin-left: 46px;
+	width: 180px;
+    height: 50px;
+	border: 3px solid ;
+    border-color: white;
+	background-color: #6c716d;
+}
+.dwn_txt
+{
+	color:white;
+	font-size: 20px;
+
+}
+
